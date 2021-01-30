@@ -1,5 +1,5 @@
 # nominatim-spain
-Prebuilt nonimatim service in a dockerized container
+Prebuilt [nominatim](https://nominatim.org/) service in a dockerized container.
 
 # Database source
 https://download.geofabrik.de/europe.html
