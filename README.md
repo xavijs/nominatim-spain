@@ -5,10 +5,8 @@
 ```sh
 docker run --restart=always -p 7070:8080 -d --name nominatim-spain xavijs/nominatim-spain bash /app/start.sh
 ```
+Go to http://localhost:7070
 Enjoy!
-
-# Usage
-- http://localhost:7070
 
 # Build image from scratch
 
